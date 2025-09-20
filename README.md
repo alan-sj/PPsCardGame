@@ -43,11 +43,12 @@
 <img width="526" height="305" alt="image" src="https://github.com/user-attachments/assets/ed1236d3-9b4a-4fc3-a8d1-3b4921b33d7d" />
 
 *The above screenshots represents BlackJack*
+ 
 
 ### Game Demo
 
 #### Gameplay Video
-Add link to gameplay video  
+(https://github.com/user-attachments/assets/f7e4f845-90e6-41a7-a619-4d14be7a01c8)
 
 ## Game Download / Deployment
 - **Playable Version:** [https://t.me/PPsCards_BOT]
